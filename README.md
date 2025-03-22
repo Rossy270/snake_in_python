@@ -8,6 +8,7 @@ A classic Snake game implementation using Python and the built-in Turtle graphic
 - Collision detection with walls and self
 - Snake growth when eating food
 - Persistent high score system
+- High Score system with file system
 
 ## ⚙️ Requirements
 - Python 3.x installed
